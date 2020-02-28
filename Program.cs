@@ -19,8 +19,9 @@ namespace Hello
             "\tthrive in a great culture"
                 ,"\t\tgrow with great technology"
                 ,"\t\t\tshare great experiences with peers"
-                ,"\t\t\t\tmake room for great oppurtunities"
-            ,"",""
+                ,"\t\t\t\tmake room for great opportunities"
+            ,""
+            ,""
                  };
 
 
@@ -84,6 +85,12 @@ namespace Hello
                     case "c5":
                         Console.Clear();
                         c5();
+                        Console.WriteLine("Type any key to continue.");
+                        Console.ReadLine();
+                        break;
+                    case "c6":
+                        Console.Clear();
+                        //c6();
                         Console.WriteLine("Type any key to continue.");
                         Console.ReadLine();
                         break;
