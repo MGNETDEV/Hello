@@ -17,7 +17,7 @@ namespace Hello
         //List of reasons
         private static List<string> Reasons = new List<string>() { "","","I dev to..",
             "\tthrive in a great culture"
-                ,"\t\tgrow with great technology"
+                ,"\t\tgrow with a great technology"
                 ,"\t\t\tshare great experiences with peers"
                 ,"\t\t\t\tmake room for great opportunities"
             ,""
