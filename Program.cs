@@ -15,14 +15,13 @@ namespace Hello
         private static List<int> _Listint = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
         //List of reasons
-        private static List<string> Reasons = new List<string>() { "","","I dev to..",
-            "\tthrive in a great culture"
-                ,"\t\tgrow with a great technology"
-                ,"\t\t\tshare great experiences with peers"
-                ,"\t\t\t\tmake room for great opportunities"
-            ,""
-            ,""
-                 };
+        private static List<string> Reasons = new List<string>() { "",""
+            ,"I dev to.."
+            ," thrive in great culture"
+            ,"  grow with great technology"
+            ,"   share great experiences with peers"
+            ,"    adapt and aspire to meet greater quality\n\n"
+        };
 
 
         /// <summary>
